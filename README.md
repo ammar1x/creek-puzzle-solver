@@ -8,8 +8,8 @@ see https://mellowmelon.wordpress.com/2010/04/16/puzzle-247/
 ghc --make Main.hs Utils.hs Board.hs
 
 # Run 
-./Main
-Enter the name of the file containing puzzle
-./tests/easy.in
+./Main <br/> 
+Enter the name of the file containing puzzle  <br/>
+./tests/easy.in <br/>
 
 
